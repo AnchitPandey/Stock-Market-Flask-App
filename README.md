@@ -16,4 +16,10 @@ Once the user clicks on Search Button, I send a GET request to APIs like Tiingo,
 
 
 
+![details-company_outlook](https://user-images.githubusercontent.com/40236708/108418310-e77b5080-71e5-11eb-9fe0-625cbe0374e3.JPG)
+![details-stock_summary](https://user-images.githubusercontent.com/40236708/108418302-e64a2380-71e5-11eb-8f96-ce32d86ae172.JPG)
+![details_charts](https://user-images.githubusercontent.com/40236708/108418308-e77b5080-71e5-11eb-896d-ddf3f71ecdfe.JPG)
+![details-latest_news](https://user-images.githubusercontent.com/40236708/108418312-e813e700-71e5-11eb-8858-6bba15c02e5b.JPG)
+
+
 
