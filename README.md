@@ -1,5 +1,5 @@
 # Stock-Market-Flask-App
-My curriculum project in which I use Flask as backend to display stock details, charts and latest news of the company input by the user. This was a basic project to be done with a static web page (no Bootstrap). The main concept I utilized is sending GET request from Flask to external APIs like Tiingo, NewsAPI and HighStock API to display the stock details
+My curriculum project in which I use Flask as backend to display stock details, charts and latest news of the company input by the user. This was a basic project to be done with a static web page (not responsive). The main concept I utilized is sending GET request from Flask to external APIs like Tiingo, NewsAPI and HighStock API to display the stock details
 of the organization.
 
 ## Different Views
