@@ -7,7 +7,8 @@ of the organization.
 ### 1. Main Screen
 This is the start screen of the app. The user can enter the ticker symbol and click on search. If the ticker is found, then details of the ticker are displayed else a message is shown saying the ticker was not found. Pressing the clear button will clear the data on the screen. This is shown in 2 figures below:
 
-
+![start-screen](https://user-images.githubusercontent.com/40236708/108418307-e77b5080-71e5-11eb-95cc-3c107e0c36f1.JPG)
+![invalid-page](https://user-images.githubusercontent.com/40236708/108418305-e6e2ba00-71e5-11eb-8545-9136c4cf1311.JPG)
 
 
 ### 2. Details View
